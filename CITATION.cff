@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si utiliza este software o sus materiales, cite el Trabajo Fin de Máster asociado."
+title: "Segmentación inteligente de clientes bancarios"
+type: software
+authors:
+  - family-names: "Bonilla"
+    given-names: "Joel"
+version: "1.0.0"
+date-released: "2026-06-20"
+repository-code: "https://github.com/JoelBonillaINF/tfm-segmentacion-clientes-bancarios"

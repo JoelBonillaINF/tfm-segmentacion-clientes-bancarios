@@ -1,0 +1,30 @@
+# Entornos y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos brutos y salidas recreables
+data/raw/
+outputs/
+*.log
+
+# Archivos locales y temporales
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*
+
+# Credenciales: nunca deben subirse
+kaggle.json
+.env
+*.pem
+*.key
+
+# Paquetes comprimidos generados localmente
+*.zip
